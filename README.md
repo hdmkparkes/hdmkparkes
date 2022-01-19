@@ -1,5 +1,6 @@
 - Top level interests are:
   - Computational Electromagnetics/Dynamics/Statics;
+  - Charged particle tracking;
   - Linear and Non-linear Circuit Analysis;
   - Switched-Mode Power Converter design, analysis and optimisation;
 - Low level interests are:
@@ -7,3 +8,4 @@
   - CAS
   - Numerical methods
   - Heuristic methods
+  - C/C++
