@@ -1,0 +1,9 @@
+- Top level interests are:
+  - Computational Electromagnetics/Dynamics/Statics;
+  - Linear and Non-linear Circuit Analysis;
+  - Switched-Mode Power Converter design, analysis and optimisation;
+- Low level interests are:
+  - HPC
+  - CAS
+  - Numerical methods
+  - Heuristic methods
